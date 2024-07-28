@@ -1,8 +1,10 @@
 # Currency Converter 
-A simple currency converter application that allows users to convert between different currencies including USD, BRL, EUR, and GBP. This project uses basic HTML, CSS, and JavaScript.  
+A simple currency converter application that allows users to convert between different currencies including USD, BRL, EUR, BGP 
+and others. This project uses basic HTML, CSS, and JavaScript.  
 
 # Features 
- - Convert between four currencies: USD (US Dollar), BRL (Brazilian Real), EUR (Euro), and GBP (British Pound).
+ - Convert between four currencies: USD (US Dollar), BRL (Brazilian Real), EUR (Euro), GBP (British Pound) 
+and others.
  - User-friendly interface with easy selection of currencies and input of amounts.
  - Instant conversion result displayed.
    

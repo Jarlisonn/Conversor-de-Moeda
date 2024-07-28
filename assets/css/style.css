@@ -10,7 +10,7 @@ body {
 
 .container {
     background-color: white;
-    padding: 70px;
+    padding: 100px;
     border-radius: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
@@ -21,10 +21,12 @@ h1 {
 }
 
 input, select, button {
+    text-align: justify;
     padding: 10px;
     margin: 10px 0;
     width: 100%;
     border-radius: 15px;
+    
 }
 
 .currency {
@@ -41,6 +43,7 @@ button {
     cursor: pointer;
     border-radius: 15px;
     font-size: 16px;
+    text-align: center;
 }
 
 button:hover {
